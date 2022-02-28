@@ -118,14 +118,4 @@ public class BasePage extends BaseTest {
 
 
 
-
-
-
-
-//    @Step("<urunDetay> li elemente tıkla")
-//    public void clickByUrunDetay(String clickByUrunDetay) {
-//        appiumDriver.findElement(By.id(clickByUrunDetay)).click();
-//        logger.info("Urun detay açıldı");
-//    }
-
 }
